@@ -3,7 +3,7 @@ package com.br.zup.java.vi.continente;
 public class ContinenteApp {
 	public static void main(String[] args) {
 
-//		SScanner sc = new Scanner(System.in
+
 		Continente continente = new Continente("Asiatico");
 		continente.setPopulacaoTotal(0);
 		continente.setDensidade(1);

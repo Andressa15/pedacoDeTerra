@@ -29,8 +29,8 @@ public class Continente {
 		this.conjuntoPaises = new ArrayList<Pais>();
 	}
 
-	public void adicionarPais(Pais p) {
-		conjuntoPaises.add(p);
+	public void adicionarPais(Pais pais) {
+		conjuntoPaises.add(pais);
 	}
 
 	public String getNome() {
